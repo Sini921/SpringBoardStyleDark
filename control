@@ -1,0 +1,11 @@
+Package: com.sini921.springboardstyledark
+Name: SpringBoardStyleDark
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 将SpringBoard设置为固定深色模式
+Maintainer: SINI
+Author: SINI
+Section: 越狱插件
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/springboardstyledark/js.json
